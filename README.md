@@ -1,4 +1,3 @@
-#WebScrapping
 This repository is for the sole purpose of research.
 
 File Information:
